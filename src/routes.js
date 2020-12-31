@@ -15,6 +15,7 @@ import Header from './components/Header';
 
 const defaultNavigationOptions = {
   headerTitle: () => <Header />,
+  headerLeft: () => null,
   headerStyle: {
     backgroundColor: '#141419',
     height: 100,

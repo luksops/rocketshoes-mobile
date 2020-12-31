@@ -3,6 +3,12 @@ import { Text } from 'react-native';
 
 // import { Container } from './styles';
 
-const Cart = () => <Text>Cart</Text>;
+function Cart() {
+  return (
+    <>
+      <Text>Cart</Text>
+    </>
+  );
+}
 
 export default Cart;

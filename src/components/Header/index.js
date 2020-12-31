@@ -25,8 +25,4 @@ function Header() {
   );
 }
 
-Header.navigationOptions = {
-  headerBackTitleVisible: false,
-};
-
 export default Header;
