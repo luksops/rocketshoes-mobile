@@ -11,7 +11,7 @@ function App() {
   return (
     <NavigationContainer>
       <Routes />
-      <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
+      <StatusBar barStyle="light-content" backgroundColor="#141419" />
     </NavigationContainer>
   );
 }
