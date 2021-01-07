@@ -22,5 +22,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'no-console': 'off',
     'react/prop-types': 0,
+    'react/prefer-stateless-function': [disabled],
   },
 };
